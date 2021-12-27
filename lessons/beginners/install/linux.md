@@ -104,6 +104,7 @@ alternativu, Virtualenv:
   {% filter markdown(inline=True) %}
   ```console
   $ sudo apt-get install python-virtualenv
+  $ sudo apt-get install python3 virtualenv
   ```
   {% endfilter %}
 
